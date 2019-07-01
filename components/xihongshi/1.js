@@ -1,4 +1,4 @@
 function fn() {
   // 这是窦向凯写的函数
-  console.log('大家好')
+  var a = 'vuex不好用，我不用了 '
 }
